@@ -14,7 +14,7 @@ This project was created to develop an application that allows users to view the
 These app helps us to provide the 5 days forecast of the weather according to the city.
 The main things I have learned from this project are how to use local storage, jQuery, Web API and Third party API.
 
-[Link to my deployed web page](https://github.com/rrana5106/Rupesh-weather-forecast)
+[Link to my deployed web page](https://rrana5106.github.io/Rupesh-weather-forecast/)
 
 ## Installation
 N/A
